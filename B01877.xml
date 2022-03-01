@@ -1,0 +1,838 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lette[r] from a gentleman in the country, to a member of the House of Commons in England; in reference to the votesof the 14th of December, 97. Relating to the trade of Ireland. Together with an answer to the said letter. / By Sir F. B.</title>
+            <author>F. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01877</idno>
+            <idno type="STC">Wing B62</idno>
+            <idno type="STC">ESTC R170408</idno>
+            <idno type="EEBO-CITATION">52614514</idno>
+            <idno type="OCLC">ocm 52614514</idno>
+            <idno type="VID">175755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175755)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lette[r] from a gentleman in the country, to a member of the House of Commons in England; in reference to the votesof the 14th of December, 97. Relating to the trade of Ireland. Together with an answer to the said letter. / By Sir F. B.</title>
+                  <author>F. B.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed for Patrick Campbel; and are to be sold at his shop ...,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: torn, tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175755:1" rendition="simple:additions"/>
+            <p>A LETTER From a Gentleman in the COUNTRY, To a Member of the <hi>Houſe</hi> of <hi>COMMONS</hi> in <hi>England;</hi> in Reference to the VOTES Of the <hi>14th</hi> of <hi>December,</hi> 97. Relating to the TRADE of IRELAND.</p>
+            <p>Together with An ANSVVER To the ſaid LETTER.</p>
+            <p>By Sir F. B.</p>
+            <p>
+               <hi>DUBLIN,</hi> Re-printed for <hi>Patrick Campbel;</hi> and are to be ſold at his ſhop in <hi>Skinner-row.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:175755:2"/>
+            <pb n="3" facs="tcp:175755:2"/>
+            <head>A LETTER from a Gentleman in the Country, to a Member of the <hi>Houſe</hi> of <hi>Commons,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THO you receive this from my hands, yet it is the Senſe of your Sea and Land Neighbours in the Country, upon your Reſolving <hi>That a Committee be appoint<g ref="char:EOLhyphen"/>ed to conſider of the Trade of</hi> England <hi>and</hi> Ireland, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd how to make the Trade of this Kingdom more <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eneficial.</hi>
+            </p>
+            <p>We alſo hope that your Houſe will conſider in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me of Peace, what may enable the Nation to De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd themſelves in time of War. It cannot but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a trouble to all thinking Men, to ſee a King<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m and People once ſo famous for Trade and Na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gation, to fight themſelves out of both; without <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>flecting on the Expence of 50 Millions <hi>Sterling;</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich was the Harveſt of 700 Years, when this <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ation was almoſt ſole in the Tilledge of the Sea: <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ow we are incompaſs'd with Rivals, and cannot <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pect ſuch plentiful Crops. Therefore we have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much reaſon to conſider how to ſecure our Trade
+<pb n="4" facs="tcp:175755:3"/>in time of Peace, as we have our Liberties in time of War.</p>
+            <p>Among the many Rivals of our Trade and Na<g ref="char:EOLhyphen"/>vigation, I have often thought <hi>Ireland</hi> to be the moſt dangerous; and that which firſt led me into the opinion, was the practice of the two laſt Reigns, incouraging the <hi>Iriſh</hi> more than their <hi>Engliſh</hi> Sub<g ref="char:EOLhyphen"/>jects in Trade and Navigation; they being proper Tools to ſupport Popery and Slavery, which <hi>Ire<g ref="char:EOLhyphen"/>land</hi> was a fit Nurſery for; and altho' the <hi>Engliſh</hi> there are mortal Enemies to the firſt, yet are they bred up with, and ſharers in the latter; that is, in the Power they have over the <hi>Iriſh</hi> in Arbitrary Ad<g ref="char:EOLhyphen"/>miniſtration; and that which firſt led the <hi>Engliſh</hi> into ſuch deſpotick Practice, was the numbers of the <hi>Iriſh,</hi> and their averſion to the <hi>Engliſh</hi> Laws and Religion; which upon any alteration of Go<g ref="char:EOLhyphen"/>vernment in <hi>England,</hi> the <hi>Iriſh</hi> get up in Rebellion. To prevent which, the <hi>Engliſh</hi> were forc'd to be Extraordinary in their Diſcipline over them; and this manage of inferiour Magiſtrates in the Coun<g ref="char:EOLhyphen"/>try, was followed by ſuperiour Courts of Juſtice<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> until it reacht the <hi>Engliſh</hi> themſelves; yet could they not complain, ſince in their ſtations from the Conſtable to the Juſtice the ſame was practiſed. All which I think was deſigned to breed up Inſtru<g ref="char:EOLhyphen"/>ments for Arbitrary Government in <hi>Ireland</hi> to in<g ref="char:EOLhyphen"/>troduce it here, and we may remember <hi>Iriſh</hi> Judge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> removed from <hi>Ireland</hi> here to ſerve a Turn.</p>
+            <pb n="5" facs="tcp:175755:3"/>
+            <p> This I mention, tho' it may be thought Foreign <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Trade, becauſe I think admitting <hi>Ireland</hi> to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir own Conduct, either in Government, or Commerce, <hi>&amp;c.</hi> is dangerous to <hi>England.</hi> But I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all not hold you longer from the ſubject of Trade, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e deſign of this Letter; and that you may not <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ink I write on common Fame, give me leave <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tell you, that I have been concerned in the Trade of <hi>Ireland,</hi> and have been twice in that Kingdom, where I made the Obſervations follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>Firſt,</hi> That the Kingdom lyes with greater Ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntage for Trade and Navigation than any Part <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Europe.</p>
+            <p>
+               <hi>Secondly,</hi> That both its Land and Seas are bleſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Nature with better Products than any Part of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rope.</p>
+            <p>
+               <hi>Thirdly,</hi> That it ſtands betwixt us and all the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ofitable Commerce of the World.</p>
+            <p>
+               <hi>Fourthly,</hi> That all this is in the Poſſeſſion of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reigners and Iriſh, the Engliſh in <hi>Ireland</hi> being <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oprietors of moſt of the Land, giving them<g ref="char:EOLhyphen"/>ſelves to Rural Employments.</p>
+            <p>This being matter of Fact, that you will conſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the reaſon <hi>England</hi> hath, to enquire into the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>poſe and manage of the Trade of that Kingdom, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich hath loſt this Nation ſo much Blood and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eaſure to recover, after 32 Rebellions.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the compaſs of a Letter I cannot innumerate <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he particulars where in <hi>Ireland</hi> interferes with
+<pb n="6" facs="tcp:175755:4"/>the Trade of <hi>England;</hi> I ſhall only inſiſt upon Five, <hi>Viz.</hi>
+            </p>
+            <p>Firſt, That of their <hi>Fiſhing,</hi> which they have variety of ſorts more than we have in <hi>England</hi> early on their Coaſt, nearer than we are to a Market ſo that they may ſell before ours are out of the Sea.</p>
+            <p>Secondly, They have <hi>Proviſions</hi> of all ſort <hi>Fifty per Cent.</hi> cheaper than we have.</p>
+            <p>Thrdily, They do by their cheapneſs of <hi>Hide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and plenty of <hi>Bark,</hi> make Land, and Leather, <hi>Cen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> per Cent.</hi> cheaper than we can.</p>
+            <p>Fourthly, By their vaſt <hi>Woods</hi> they ſupply <hi>Fran<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Spain</hi> with <hi>Staves,</hi> build Ships at <hi>Fifty per Cent.</hi> cheaper than we can, by which they <hi>draw o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from</hi> England <hi>our Ship-Carpenters;</hi> which in th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> end may deſtroy our Navigation, and make the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Carryers of our Merchandize, and encreaſe the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Seamen, which by the way, are moſt <hi>Iriſh;</hi> for as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid before, the <hi>Engliſh</hi> generaly follow Count<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Imployments.</p>
+            <p>Fifthly, By the cheapneſs and large <hi>Staple</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their <hi>Wooll</hi> multitude of <hi>Iriſh Spinners,</hi> and cheap<g ref="char:EOLhyphen"/>neſs of their Work, they are in a fair way of bei<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> more than Rivals in our <hi>Wollen Manufactury'</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great numbers of our <hi>Clothiers</hi> running into th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Kingdom with what ſmall Stocks they have; whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they are the more encourag'd unto by their raiſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Coyn <hi>Twenty per Cent.</hi> above its Value in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> ſo that he which goes from hence with Eigh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Pounds, hath a Hundred when he arrives in <hi>Irela<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+               <pb n="7" facs="tcp:175755:4"/>Thus at a blow we <hi>looſe our Manufacturies, Men;</hi> and <hi>Money.</hi> A fair return you will ſay for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur kindneſs in relieving them here; and reſtoring <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem there to their Eſtates: But that which I think <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he moſt unaccountable of all is, that we ſuffer them <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hold Parliaments, ſettle Estates, paſs Attainders, Regulate our Trade, Pardon their own Rebellions,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat we have paid for. This could be done by no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing but Iriſh Aſſurance, nor endured by any but Engliſh Conquerors, for ſo I hope they will yet al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow us to be, if not, that your Houſe will take a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourſe to make them remember it:</p>
+            <p>After what is ſaid, you may expect I ſhould pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe ſome Expedients to prevent <hi>Ireland</hi> from run<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing away with a Million Sterling <hi>per Annum</hi> of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Trade of this Nation.</p>
+            <p>What I conceive might be a Remedy to preſerve <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and yet not hurt them, (for <hi>I</hi> am not Ruining <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Brethren that are there,) is as followeth:</p>
+            <p>
+               <hi>Firſt,</hi> That they ſhould not be admitted <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Build</hi> or <hi>keep at Sea any Ship,</hi> but to have all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Carriage</hi> of that Kingdom by Ships of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> That they ſhould be bounded and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſcribed in all their Trade by Act of Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> not only to the places they ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rade, but to the quantity of their Natural Pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ct they ſhall Export, and to the Seaſon and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me when, ſo that <hi>England</hi> may have the firſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arket.</p>
+            <pb n="8" facs="tcp:175755:5"/>
+            <p> 
+               <hi>Thirdly,</hi> That they may not Fiſh but with Boat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Men of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> That their Money be brought to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Standard of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> That they hold no Parliaments, but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Governed by the Parliament Laws of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Sixthly,</hi> That they be not permitted to ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any <hi>Manufactures</hi> whatſoever, except Linnen.</p>
+            <p>I will trouble you no longer than to pray yo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Reading of Mr. <hi>Carey</hi> of <hi>Briſtols</hi> Book, who ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> writ with great Judgment and Affection to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Country on this ſubject. I wiſh we had more M<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that conſidered the Trade of the Nation, the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of which will be more dangerous than a ſtandin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Army.</p>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:175755:5"/>
+            <head>AN ANSWER TO A LETTER from a Getleman in the Country, to a <hi>Member</hi> of the <hi>Houſe</hi> of COMMONS, in <hi>ENGLAND.</hi>
+            </head>
+            <head type="sub">On the <hi>VOTES</hi> of the 14th of <hi>December,</hi> 1697. Relating to the TRADE of IRELAND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE live in an Age where ſcribling is the Language of one Man to another, and too often uſed on a Subject, to which <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey are as much ſtrangers, as to each other's Per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n. This ſeems our caſe, we come abroad with the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ow'd to pleaſe our ſelves, tho' we diſturb others; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t that which brings me in Print is, becauſe I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ink Men of better Underſtanding will not trou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e themſelves to Anſwer your unpoliſh'd Libel on <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Government and our Bretheren in <hi>Ireland;</hi> and
+<pb n="10" facs="tcp:175755:6"/>by that means your Invectives might have the ſuc<g ref="char:EOLhyphen"/>ceſs you wiſh't for, <hi>viz.</hi> a belief amongſt the In<g ref="char:EOLhyphen"/>duſtrious part of the Nation; which, were the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> true, the firſt work of <hi>England</hi> ſhould be to remo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our Friends, deſtroy the Natives, and ſend o<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a Hundred Thouſand Souldiers to keep the Iſla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from <hi>them;</hi> that know how to make a good uſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it, if we don't: But the beſt way of confuting yo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Maxims in Trade and <hi>Government,</hi> is to repe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them, and then a very few words will Anſw<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them.</p>
+            <p>I begin with your aſſertion, <hi>That it cannot <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be the trouble of all thinking Men, to ſee a King<g ref="char:EOLhyphen"/>dom and People once ſo famous for Trade and Navi<g ref="char:EOLhyphen"/>gation, to Fight themſelves out of both.</hi> To t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it's anſwer'd, I meet with few of your opinion, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch as think the Nation did ill to fight at all.</p>
+            <p>Obedience to the late K. tho in Wooden Sho<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Faggots on our backs, to <hi>Smithfield</hi> was our <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry, your Holy Church tells us; but that whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> makes few believe it, is, that Doctrine was alw<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> preach't by Men of debauch'd Lives, and Pro<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tutes for preferment. But, Sir, I muſt tell <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what Men that think as much as your's, ſay; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that is, They believe that by the War which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ended with ſo much honour and advantage to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Nation, we have ſecured our Trade and Navigati<g ref="char:EOLhyphen"/>on, with ſomthing more that perhaps you are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> friend unto <hi>our Laws and Religion;</hi> but as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Trade and Navigation, pray how ſhould we <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:175755:6"/>preſerved them if the French had been Maſters of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <hi>United Provinces.</hi> For ſeeing we and the Dutch <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere fully imploy'd both together, to deal with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rench alone, which way could we have blovvn the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rench and Dutch Fleets, out of the Sea in caſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey had been united. Thoſe that find fault vvith <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r War, vvould be pleaſed vvith our Captivity; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ft vvords are called for by ſuch as are vvounded <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith Truths, therefore I ſhall not ſpeak my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>houghts of your Principels. You tell us of 700 <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers Harveſt, and</hi> 50 <hi>Millions ſpent in this War;</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t vvere more, Engliſh-men think vve have the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth of it; but <hi>I</hi> hope you do not believe the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hole 50 Millions are carryed out of the King<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m, it is demonſtrable, that the greateſt part is ſtill <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ongſt us tho' <hi>I</hi> confeſs it may be in vvorſe hands <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n before the War. <hi>I</hi> muſt ovvn my ſelf no <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>end to that practice vvhich inriches the Servant <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beggers the Maſter: It ſhould be the abhor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce of all good Men, to ſee people in Civil Imploy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ts ready to burſt vvith unrighteous Gain; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> induſtrious Merchant languiſhing by the Op<g ref="char:EOLhyphen"/>reſſion of their Servants; but this vve hope vvill <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nquired into.</p>
+            <p>Your next Paragraph begins thus, <hi>Among the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y rivals of our Trade and Navigation, I have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thought</hi> Ireland <hi>to be the moſt dangerous, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which led me into this Opinion, was the pra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the two laſt Reigns, incouraging the Iriſh more <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Engliſh Subjects in Trade and Navigati<g ref="char:EOLhyphen"/>on,
+<pb n="12" facs="tcp:175755:7"/>thereby to make</hi> Ireland <hi>a Nurſery for Arbitra<g ref="char:EOLhyphen"/>ry Government, to which the Engliſh were abet<g ref="char:EOLhyphen"/>tors.</hi>
+            </p>
+            <p>There needs no other Anſwer to your Thoughts <q>
+                  <hi>That Ireland is moſt dangerous to the Trade o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> England,</hi>
+               </q> but that all the yearly Exports of <hi>Ireland</hi> amount not to the Value of one <hi>Eaſt-India</hi> Ship<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cargoe, as vvill appear by vvhat follovvs.</p>
+            <p>That you ſay of the deſign of the two laſt Reigns t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> introduce Arbitrary Government is not doubted, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the Engliſh in <hi>Ireland</hi> were Abettors to it, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt manifeſtly Falſe; there were no Men in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Three Kingdoms that ventured their Lives mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bravely againſt it then they did; and to them<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> think in a great meaſure we owe our Quiet and o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Trade, on the late happy Revolution of this King<g ref="char:EOLhyphen"/>dom, which <hi>I</hi> fancy is the reaſon you are ſo ang<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with them; perhaps you cannot forgive the ſta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they of <hi>Inneskilling</hi> and <hi>Londonderry</hi> made to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> late Kings Army, when they deſigned for <hi>Scotla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> if they could have reduced thoſe Men in their w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> They would then have been troubleſome to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nearer home, where <hi>you</hi> and <hi>your Friends</hi> were r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dy to receive them.</p>
+            <p>As to the Engliſh's being for <hi>Arbitrary Govern<g ref="char:EOLhyphen"/>ment,</hi> you are as much out, as in the number<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Iriſh Seamen; and leaſt you ſhould thin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſpeak at randome, as you do, <hi>know</hi> I was bor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a City that hath a great ſhare in the Trade of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>land,</hi> have been thrice in that Kingdom, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:175755:7"/>made all the Obſervation I could of the Nature, Trade, and Conſtitution of that Country; a<g ref="char:EOLhyphen"/>mongſt other Things, I found they had very little Navigation; <hi>Dublin</hi> their Capital had not one Ship belonging to it, <hi>Carickfergus,</hi> or <hi>Belfaſt,</hi> and <hi>Corck,</hi> had a few ſmall Craft, but not a Ship of Force or Burthen in the Kingdom. I enquired particularly the Number of their Iriſh Seamen, and by all I asked, was anſwered, they never ſaw one that could <hi>Top</hi> and <hi>Yard,</hi> a phraſe they have a<g ref="char:EOLhyphen"/>mong Seamen.</p>
+            <p>Your next Paragraph tells us, <hi>How dangerous it is to</hi> England <hi>to leave</hi> Ireland <hi>to their own con<g ref="char:EOLhyphen"/>duct in Trade and Government.</hi>
+            </p>
+            <p>Surely you are a ſtranger to the Laws of both Kingdoms, or elſe you would have known that they can Paſs no Act of Parliament in <hi>Ireland,</hi> but what comes firſt from the King and Councel here; and cannot alter one Word in it, but muſt take the Act juſt as it comes from <hi>England.</hi>
+            </p>
+            <p>Your following Obſervations of the Scituation, Nature, Product, <hi>&amp;c.</hi> are true; for that Reaſon I think we ſhould keep it in Engliſh Hands, and not follow your Propoſals to drive them out: But of that when I come to your Expedients.</p>
+            <p>Now as to your <hi>Five particulars,</hi> wherein you ſay, <hi>Ireland Interferes with the Trade of England,</hi> Firſt, <hi>in that of their Fiſhing,</hi> wherein no doubt they have Advantage above us, but they never had yet Men, Money, or Craft to make uſe of it; the
+<pb n="14" facs="tcp:175755:8"/>more's the pity, it being a loſs to us, and I think a fault that we do not help them.</p>
+            <p>Your ſecond Aſſertion is true in part, <hi>Their Pro<g ref="char:EOLhyphen"/>viſions are Cheaper;</hi> but then let me tell you, they are not ſo good as ours, and their Butter and Cheefe is near as dear.</p>
+            <p>Your third and fourth Obſervations, are ſo apa<g ref="char:EOLhyphen"/>rently Falſe, that one Word will Anſwer them both; you ſay, <hi>you have been twice in</hi> Ireland; but beſides your ſelf, I may venture to ſay, there was never any man in it, but can tell you, there is not Timber to ſupply the tenth part of the Uſe of the Kingdom; <hi>I</hi> have ſeen a Survey of all the Woods in that Iſland, and except <hi>Shellela,</hi> there is not ſo much valuable Timber in the whole, as one Gentleman hath in <hi>England.</hi> Surely then we are in no danger of their <hi>Building Ships</hi> or <hi>Tan<g ref="char:EOLhyphen"/>ning Leather.</hi>
+            </p>
+            <p>Your Fifth Obſervation is of their <hi>Wool,</hi> in which you are right; but as for the <hi>multitude of Iriſh Spinners,</hi> you are in an Error; they are ſo far from being <hi>our Rivals in the Woollen Manufa<g ref="char:EOLhyphen"/>ctury,</hi> that this laſt year they could not get ſo much in all the Country as to cloath their ſmall Army.</p>
+            <p>But however, <hi>I</hi> think we have reaſon to look carefully into that Manufactury, which is the <hi>Soul</hi> of all we have left of Trade, and yet <hi>I</hi> ſee Advocates for the <hi>Eaſt-India</hi> Trade to the deſtructi<g ref="char:EOLhyphen"/>on of our Manufactury at home.</p>
+            <pb n="15" facs="tcp:175755:8"/>
+            <p> In this methinks we Act like ill Husbands, that being Abuſed abroad, Revenge themſelves at home on their Wives and Children. We are wheedl'd out of our Manufacturies, by Deſigning Men amongſt our ſelves, kick'd out of our <hi>Fiſhing</hi> abroad, and then, like <hi>Sampſon,</hi> we pull down the Houſe upon our ſelves, to be reveng'd for our two Eyes. So <hi>I</hi> take our <hi>Woollen Manufactu<g ref="char:EOLhyphen"/>ry, and Fiſhing</hi> to be. But let us deſtroy <hi>Ireland,</hi> beat our Wives and Children, and we ſhall Re<g ref="char:EOLhyphen"/>cover all.</p>
+            <p>You end your Fifth Paragraph with that which you think the moſt unaccountable of all, <hi>The ſuf<g ref="char:EOLhyphen"/>fering them to hold Parliaments.</hi>
+            </p>
+            <p>Now Sir, if you never read Hiſtory, and ſo are ignorant how the Crown of <hi>England</hi> came firſt to intituled to <hi>Ireland,</hi> then it is great Aſſurance in you to talk of the Conſtitution of a Kingdom, you know nothing of; if you have Read, you muſt know there was a Compact that they ſhould hold Parliaments, with the ſame Privileges as <hi>England:</hi> and altho' they have by their own Parliaments a<g ref="char:EOLhyphen"/>bridged themſelves by <hi>Poynings Law</hi> in ſome things, yet have they ſtill an Act of Parliament for <hi>Annual Parliaments,</hi> and another <hi>Act,</hi> that all Laws made in <hi>England</hi> before the Tenth of <hi>Henry</hi> VII. ſhould be in force in <hi>Ireland. I</hi> believe you will own we had Parliaments in <hi>England</hi> before <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>denry VII.</hi> they have then the ſame Right <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hold Parliaments, that we have, but
+<pb n="16" facs="tcp:175755:9"/>they are a poor People, and muſt ſubmit. Have a care of that French Maxim (we know not whoſe turn it may be next) I remember in the Reign of <hi>Charles II.</hi> diſcourſing with the Duke of <hi>Ormond</hi> (who I think, take him every way, was one of the greateſt Men of that time) upon the Tryal of the Earl of <hi>Shaftsbury,</hi> his Grace ſaid, <hi>My Lord Shaftsbury was never my Friend, yet were I a Commoner and one of his Jury, I would starve before I would find him Guilty by ſtraining the Law: We muſt have a care of Conſtitutions and Laws, they are of better uſe to preſerve our ſelves, than to take off our Enemies.</hi> If you were of this opinion, you would not be againſt <hi>Ireland's</hi> holding Parliaments: have a care, Sir, of breaking into Conſtitutions, we know not who may come next, we are ſure His preſent Majeſty will preſerve our Conſtitution, and it 'tis our happineſs, He is more tender of them then many of our ſelves; but if we will deſtroy them in a good Reign, there may come a time when our own Preſidents may bebrought againſt us.</p>
+            <p>You end your Paragraph with an Invective ſay<g ref="char:EOLhyphen"/>ing, <hi>You hope the Houſe will make them Remem<g ref="char:EOLhyphen"/>ber they were Conquered.</hi> I remember to have ſeen a Book in this Reign, by Order of Parliament, Burnt by the Common-Hangman, for Aſſerting that conquering Doctrine. It is by our Laws that all the Monarchs of <hi>England,</hi> and a monſt the reſt his preſent <hi>Majeſty</hi> is declared to be King of <hi>Ire<g ref="char:EOLhyphen"/>land, de Jure,</hi> when King of <hi>England de Facto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="17" facs="tcp:175755:9"/>Now if you pleaſe to remember, the Brittiſh of <hi>Ire<g ref="char:EOLhyphen"/>land, who are Proprietors of moſt of that Kingdom,</hi> were as one man in the Intereſt of <hi>England;</hi> fought (as is ſaid before) for and with the King, that came to deliver them from the <hi>Uſurpation and Tyranny of the late King</hi> James; for ſo it was, He having loſt his Title by <hi>Abdication,</hi> before he came to <hi>Ireland;</hi> And King <hi>William</hi> came there to reſcue his Prote<g ref="char:EOLhyphen"/>ſtant Subjects in <hi>Ireland,</hi> from the <hi>Ravage and Murders of the Rebellious</hi> Iriſh <hi>Subjects.</hi> This I hope you will not make a Conqueſt, if it be, we have had two or three of them in this Reign by the Execution of Traytors at <hi>Tyburn.</hi>
+            </p>
+            <p>You now come to your Expedients, wich are like that of an Engliſh Sea Captain, that being in danger of two <hi>Dunkirk Men of War,</hi> a French Of<g ref="char:EOLhyphen"/>ficer on Board him, Asked the Captain <hi>what he ſhould do, for he dreaded being carryed into France, Never fear,</hi> ſaid the Captain, <hi>I wont be taken: How can you be ſure of that,</hi> ſaid the French Man? <hi>I will firſt blow up my Ship,</hi> reply'd the Captain; at which <hi>Monſieur</hi> ſhrug'd his ſhoulders and ſaid, <hi>Par ma foy un tres bon expedient Anglois.</hi> So are your Expedients; as will appear preſently. <hi>I</hi> will repeat them in order, and then one Anſwer will ſerve them all.</p>
+            <p n="1">
+               <pb n="18" facs="tcp:175755:10"/> 1. <hi>That they ſhould not Build, or keep at Sea one Ship.</hi>
+            </p>
+            <p n="2">2. <hi>That they be Bounded &amp; Preſcribed in all their Trade by Act of Parliament here; not only to the place they ſhall go, but alſo to the Qualities and Na<g ref="char:EOLhyphen"/>tures of the Commodities they Export, and to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Timewhen they ſhall export that we may have the ſir<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> market.</hi>
+            </p>
+            <p n="3">3. <hi>That they ſhould not Fiſh but with Men an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Boats of</hi> England.</p>
+            <p n="4">4. <hi>That their Money be brought to the Standard <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> England.</p>
+            <p n="5">5. <hi>That they hold no Parliament, but be Governe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the Parliament of</hi> England.</p>
+            <p n="6">6. <hi>That they be not permitted to make any Man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> facturies but Linnen.</hi>
+            </p>
+            <p>I told you before, one Anſwer ſhould ſerve <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them all, and that ſhall be with a Queſtion, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as a Porter made a Lord <hi>Mayor of London,</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Uſurpers time, (for Regulating the Price of Bee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was Proclaming) <hi>That none ſhould be ſold <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more then a Penny a Quart:</hi> A Porter ſtanding <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Lord Mayors Horſe, call'd out, <hi>that the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was the moſt material thing left out, which wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> appointing who ſhould drink that ſmall Beer, for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:175755:10"/>ſwore he'd drink none?</hi> So, Sir, you ſhould have appointed in your Expedients, who ſhould live in <hi>Ireland;</hi> for no Engliſhman will: And ſurely our Nation will not think it ſafe in any others Hands.</p>
+            <p>Methinks you make a bold ſtroke to propoſe <hi>Ire<g ref="char:EOLhyphen"/>land</hi> ſhould be Governed by the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> that, in Engliſh, is <hi>Loping off</hi> one of the Three Kingdoms from the Crown. Your Scheme of Government exceeds all I ever read of; you would make <hi>Ireland</hi> to be a <hi>Common wealth,</hi> but none of the Country to be in the Government; ſure ſome body need Govern you, tho' it were in <hi>Bedlam.</hi>
+            </p>
+            <p>You and your Letter with referring to Mr. <hi>Cary</hi> of <hi>Briſtol</hi>'s Book; I know the Gentleman and have diſcourſed on his Book, which tho' it comes not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o your Notions, yet he abated much of it in Ex<g ref="char:EOLhyphen"/>planation. And now, Sir, with your leave, I ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake ſome General Remarks on your whole Let<g ref="char:EOLhyphen"/>ter: What you ſay <hi>of the extraordinary Advan<g ref="char:EOLhyphen"/>tages</hi> Ireland <hi>hath above us in Trade and Navi<g ref="char:EOLhyphen"/>gation,</hi> is true, and it is as true, that they never <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad oppertunity to make uſe of them.</p>
+            <p>The Brittiſh in general ſpeaking, acquiting their <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rtunes there by Arms, not with <hi>Arts</hi> or <hi>Trade;</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe few that come there with either of the the two
+<pb n="20" facs="tcp:175755:11"/>laſt, are uſually ſuch as have miſcarryed in their own Country; ſo far want of ſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k do rarely mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than earn their Bread in that plentiful Country Frequent Rebellions leſſens the Inhabitants bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> adds Acres to the Brittiſh; which they are mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fond of, then Navigation and Commerce: and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> far you are in the right, <hi>that they are moſt taken <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in Country Imployments,</hi> but you are much in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wrong in ſaying, <hi>the Iriſh are moſt in the Trade an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Navigation;</hi> they ſeldom ſail further then to a Pota<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Garden and Trade only in Cowes. I have bee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in ſeveral Parts of the World, and according to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Obſervation, the Iriſh are as ignorant of Tra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Navigation as the <hi>Indians</hi> in <hi>America.</hi> No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that you ſhould <hi>fear their numbers at Sea,</hi> that hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not Five Seamen of their Nation, gives groun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to believe, you writ with Jeſuitical Maxims; <hi>thro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Dirt — however falſe, ſome may ſtick.</hi> Put in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Heads of the multitude, frightful ſtories of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> danger we are in of being over-run by the Iri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> both at Land and Sea; and that you may have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtrings to your bow, you bring in <hi>Foreigners Run<g ref="char:EOLhyphen"/>ning away with what the Iriſh do not of the Tra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of</hi> Ireland. To ſhew your integrity in this, I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give undeniable Authority out of the Cuſtom-hou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Books of <hi>Ireland</hi> againſt you.</p>
+            <p>I have now by me an exact Account of all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Exports and Imports of <hi>Ireland;</hi> for ſix Years <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the greateſt time of <hi>Irelands</hi> proſperity, and by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:175755:11"/>Account their Exports in the Year 1682, amount<g ref="char:EOLhyphen"/>ed but to Five Hundred Forty One Thouſand Four Hundred and Nineteen Pounds Sterling, of which Four Hundred and two Thouſand Pounds was for Accompt of Merchants in <hi>England;</hi> and Exported in their Ships, One Hundred Thouſand Pounds Sterling, for Accompt of the Engliſh in <hi>Ireland,</hi> and about Forty Thouſand for Accompt of Foreigners. And that you may not think this computation was made at random; I will tell you how it was done.</p>
+            <p>The whole Account was drawn out of the Cu<g ref="char:EOLhyphen"/>ſtom-houſe Books by a Clerk under the Examiner of their Accounts, with every Merchants Name that entered them, and to what place the Ship be<g ref="char:EOLhyphen"/>longed, in which the Goods were Exported: this was after all brought into Form by a Man of the greateſt Practice and Experience that perchance was ever a Trader in that Kingdom, who knew for whom the moſt conſiderable Factors dealt: (For by the way, moſt of the Trade of that Kingdom is managed by Factors.) This Gentleman did aſ<g ref="char:EOLhyphen"/>ſure me with demonſtrations more then can be com<g ref="char:EOLhyphen"/>prehended in the compaſs of this Diſcourſe, that there was very little Exceptions to be made to this Account, which he ſpent ſome years in perfecting, for he writ Obſervations on every Commodity Exported and Imported. What is here brought a<g ref="char:EOLhyphen"/>gainſt your <hi>matter of Fact,</hi> as you call it, is <hi>I</hi> think undeniable.</p>
+            <pb n="22" facs="tcp:175755:12"/>
+            <p> And that your ignorance in Commerce may ap<g ref="char:EOLhyphen"/>pear, I will ſhew that what you ſay of <hi>Foreigners running away with the Trade of</hi> Ireland, is impoſ<g ref="char:EOLhyphen"/>ſible; and that for theſe Reaſons.</p>
+            <p n="1">1. Firſt, becauſe the greateſt part of their Pro<g ref="char:EOLhyphen"/>duct is by their own Laws prohibited to all parts of the World but <hi>England</hi> as their <hi>Wool, Sheep Skins, Woolen, Yarn, Linnen-yarn;</hi> Green and Tan'd Hides pay double Duty upon their Ex<g ref="char:EOLhyphen"/>port to any part but <hi>England;</hi> all which Com<g ref="char:EOLhyphen"/>modities are more then half their Export.</p>
+            <p n="2">2. The <hi>Act of Navigation</hi> is in Force by Law in <hi>Ireland.</hi> Now Sir, if you know not my mean<g ref="char:EOLhyphen"/>ing by mentioning that Act, it is, That by tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Statute <hi>no Foreign Ship can carry any Good from</hi> Ireland <hi>to</hi> England.</p>
+            <p n="3">3. The greateſt part of the Proviſions of <hi>Ireland</hi> are Exported by ſhips of <hi>England</hi> to our Foreign Plantations for little Beeff, or Porke, whateve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we think, goes to Foreign Markets, now th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Act of Navigation before mentioned, Prohibit<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all Foreign Ships from Trading to our Planta<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="4">4. By Law they are Prohibited the Importation of any, tho Commodities of our Foreign Planta<g ref="char:EOLhyphen"/>tions but from <hi>England,</hi> not ſo much as a Poun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:175755:12"/>of Tobacco or Sugar is admitted into <hi>Ireland,</hi> but what comes from <hi>England;</hi> I may add, that they Forfeit Ship and Goods, if they carry out of <hi>Ireland</hi> any thing but Proviſions, Servants and Horſes. I knew a Ship ſeiz'd in <hi>Virginia</hi> for bringing but a Dozen of <hi>Woollen Stockens</hi> from <hi>Ireland.</hi> After all this, pray what is there left for Foreigners to drive that mighty Trade you ſpeak of in <hi>Ireland.</hi>
+            </p>
+            <p>I think it proper to inquire now where the Million is, you tell us <hi>Ireland runs away with of the Trade of England;</hi> it is proved, that their whole Annual Exports amounts to little more then one half of your Million, and of that Four Hundred Thouſand goes for <hi>England,</hi> and Engliſh Merchants Accounts; you have then but Forty Thouſand Pounds to raiſe your Million out of.</p>
+            <p>There is another Remarkable Inſtance you give <hi>of the danger we are in by raiſing their Money</hi> 20 <hi>yet Cent.</hi> above it's value; it would be no very mannerly queſtion to ask you where you have been for this 12 Months, in which time the nature of Coyn hath been ſo fully Debated and reſolved in Parliament, and explained to the whole Nation, that I thought every one in it was convinced, that by Raiſing Money we cheated no body but our ſelves; and I do not think but that the Gentlemen of <hi>Ireland</hi> underſtand that Truth, but neceſſity of<g ref="char:EOLhyphen"/>ten
+<pb n="24" facs="tcp:175755:13"/>prevails over Judgment; we know not their Circumſtances, only may gueſs, that a Country who in their greateſt Proſperity had never Four Hundred Thouſand Pounds Sterling, of Running Caſh, and Two Hundred and Forty Thouſand Pounds <hi>per Annum</hi> of the Rents of that Kingdom, belonging unto and ſpent in this, are in hazard of having all carryed out. But let their conſideration be what it will, <hi>I</hi> think we have no reaſon to fear, but rather pitty them in this matter.</p>
+            <p>I had like to have paſt over your moſt ſenſible part; for it in Truth ſhews the Man and his Con<g ref="char:EOLhyphen"/>verſation.</p>
+            <p>Your Words are theſe, <hi>But that which I thin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the moſt unaccountable of all is, that we ſuffer the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to hold Parliaments, Settle Eſtates, Pardon the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own Rebellions. &amp;c.</hi>
+            </p>
+            <p>It is plain what you mean, but it comes ſo nea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Arraigning the Government, that you durſt n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> expreſs it in plain Words; the late King <hi>JAME<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> with his Iriſh <hi>Mob,</hi> that he called, a Parliament <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Dublin,</hi> did there Attaint all the Brittiſh Proteſtan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Name, that owned King <hi>William</hi> their Right<g ref="char:EOLhyphen"/>ful Lawful King; and to make ſure of all the Pro<g ref="char:EOLhyphen"/>teſtants Eſtates in that Kingdom, there pretend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Act named Women and Children that never ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Iriſh Ground. Now this Rebellious Edict of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:175755:13"/>Iriſh, the preſent Parliament of <hi>Ireland</hi> have de<g ref="char:EOLhyphen"/>clared and Enacted Illegal and Rebellious, and the pretended Parliament that made it, to be then in Rebellion againſt the Crown of <hi>England.</hi> And for this you ſay, the Parliaments of <hi>Ireland</hi> pardon their own Rebellions; for you do inſinuate their being in Rebellion when they left the late King <hi>James:</hi> Truly Sir, by what <hi>I</hi> hear of that Parlia<g ref="char:EOLhyphen"/>ment, they are ſo far from pardoning Rebellions, that they expel'd one of their own Members for but a ſmall overt Act in the time of the late King <hi>James</hi>'s being in <hi>Ireland.</hi> They are a People (<hi>I</hi> am ſorry it ſhould be ſo in reſpect of our ſelves, tho <hi>I</hi> commend it in them,) that are not divided, as we are, in parties, but as one Man in His Majeſties in<g ref="char:EOLhyphen"/>tereſt, except a very few that are advanced in the Kings Service, as too many have been here, by miſtake of ſome, and deſign of others; however thoſe plants grow not in <hi>Ireland;</hi> it is Obſerved no venemous Creature brought from <hi>England</hi> lives there; <hi>I</hi> ſuppoſe you never intend to try.</p>
+            <p>I have now done with your Letter, and ſhall end mine with directing what follows, to Men of better Principles then you ſeem to be; and ſuch I preſume will not uſe <hi>Ireland</hi> as the Har<g ref="char:EOLhyphen"/>lot would have had the Child, her Language was like yours, <hi>divide the Child, let it be neither thine nor mine.</hi> Your Friends have neither right nor Poſeſſion of it, and they that have you Maligne; But all true
+<pb n="26" facs="tcp:175755:14"/>Engliſhmen conſider them as <hi>bone of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bone,</hi> and it is reaſonable to believe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Houſe of Commons</hi> paſſed that Vote <hi>for ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing the Trade of Ireland more beneficial <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> England, with that conſideration, there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no doubt, room enough to make it ſo.</p>
+            <p>I have often thought it would be one <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the firſt Works the Parliament would <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon, at the concluſion of a Peace, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to let ſuch a Treaſure as that Iſland mig<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be made to <hi>England,</hi> lie waſte, as it ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> always been ever ſince the Engliſh ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had Footing in it, which is unaccountab<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it would be thought ſo in the conduct <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Private Man, if he ſhould neglect <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own Inheritance and lay out his Mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Improving that of another Man's; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not ſo when we imploy our Men and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ney to enrich the Subjects of the <hi>Mog<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and neglect a Country of our own ſo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as that, if righty managed, would ſtreng<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>en and enrich our Nation more then all Trade we have in the World beſides. W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would <hi>France</hi> make of it if they had it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do not think they would cry it down the deſtruction of their Kingdom:
+<pb n="27" facs="tcp:175755:14"/>have perhaps more reaſon to va<g ref="char:EOLhyphen"/>lue it then is at preſent ſeen; I doubt we are in more danger of loſing our Trade and Navigation, then ever we were in ſince we were a People; and it is feared we love nothing left to help us but <hi>Ireland;</hi> but then it muſt not be let to former Conduct, I am loath <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſay what I know in this matter.</p>
+            <p>We ſhould alſo conſider, the Iaſon we have to incourage <hi>Brit<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Planters</hi> in that Kingdom; for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>other can ſecure it to <hi>England.</hi> It <hi>I</hi> have been too long for a let<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, tho too ſhort for the Subject; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall only give my humble Opi<g ref="char:EOLhyphen"/>nion, <hi>That it would be for the Ser<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e of</hi> England <hi>in this great Con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n of ſetling the TRADE of both <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngdoms, to hear the People of</hi> Ire<g ref="char:EOLhyphen"/>land
+<pb n="28" facs="tcp:175755:15"/>
+               <hi>before they conclude them,</hi> he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him, hear him, <hi>is Parliament Lan<g ref="char:EOLhyphen"/>guage, and Chriſtian Practice, be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Judgment.</hi> I end with the Words <hi>Seneca</hi> in his Morals,</p>
+            <p>He that lives according to R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſon ſhall never be poor: And <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that governs his Life, by Opinion ſhall never be Rich.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
